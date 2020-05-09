@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title> Amusére</title>
+<link rel="icon" href="5499.png">
+    </head>
+
+    <body>
+        <div id="container">
+            <div id="header">
+                <h1>Welcome to Amusére</h1>
+                <div id="NAV">
+                    <h3>Navigation</h3>
+                    <ul>
+                        <h3 >Quick access</h3>
+                        <li>HOME</li>
+                        <li>Work</li>
+                        <li>RESUME</li>
+                        <li>ABOUT</li>
+                        <li>CONTACT</li>
+                    </ul>
+
+                </div>
+            </div>
+            <div id="content">
+                
+                <div id="Section">
+                    <h2>Section</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic blanditiis quod est illum sequi in quis voluptatum, non error eaque minus, esse voluptate, iusto at ad autem eum magni quaerat.</p>
+                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam vero officia eligendi nulla voluptatem? Error, non. Explicabo voluptates aliquam quidem accusantium iste? Quo ut incidunt nihil, molestias sint illo tempora.</p>
+                </div>
+                <div id="article">
+                    <h2>Article</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic blanditiis quod est illum sequi in quis voluptatum, non error eaque minus, esse voluptate, iusto at ad autem eum magni quaerat.</p>
+                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam vero officia eligendi nulla voluptatem? Error, non. Explicabo voluptates aliquam quidem accusantium iste? Quo ut incidunt nihil, molestias sint illo tempora.</p>
+                </div>
+                <div id="aside">
+                    <h2>Aside</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic blanditiis quod est illum sequi in quis voluptatum, non error eaque minus, esse voluptate, iusto at ad autem eum magni quaerat.</p>
+                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam vero officia eligendi nulla voluptatem? Error, non. Explicabo voluptates aliquam quidem accusantium iste? Quo ut incidunt nihil, molestias sint illo tempora.</p>
+                </div>
+
+            </div>
+            <div id="footer">
+                copyright &copy; 2020 BBBkoumenji
+
+            </div>
+        </div>
+       
+    </body>
+</html>
